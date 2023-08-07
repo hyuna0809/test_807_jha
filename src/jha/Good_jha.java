@@ -1,4 +1,4 @@
-package test_807_jha;
+package jha;
 
 public class Good_jha {
 
